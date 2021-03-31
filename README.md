@@ -1,6 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antigenMHC&exclude_repo=github-readme-stats,Blog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antigenMHC&exclude_repo=github-readme-stats,Blog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> 
   <br/>
