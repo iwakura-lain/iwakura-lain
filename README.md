@@ -7,7 +7,7 @@
 
 ##  Just Like Eat 🌭🌮🌯
 
-- :orange_book: 时长两年半的 Jvav 练习生，爱好广泛，老二刺螈了
+- :orange_book: 时长两年半的 Jvav 练习生，现役 QA，爱好广泛，老二刺螈了
 - :hammer: coding for fun
 - 👴 ACGN
 - 💘 [《僕だけがいない街》](https://www.bilibili.com/bangumi/play/ss3096/?from=search&seid=14813002507578755360)、[《True Tears》](https://www.bilibili.com/bangumi/play/ss2910/?from=search&seid=12856244231300800600) 
